@@ -1,24 +1,24 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
 <!-- Correo electrónico: danielperezdev@proton.me  -->
-# ***Sintaxis de Markdown para Documentación de Proyectos***
+# ***Markdown Syntax for Project Documentation***
 
-> *Este repositorio contiene una guía rápida de referencia para la sintaxis de Markdown, especialmente dirigida a la documentación de proyectos. Markdown es un lenguaje de marcado ligero que se utiliza comúnmente para formatear texto en plataformas como GitHub, GitLab, Bitbucket y muchas otras.*
+> *This repository contains a quick reference guide for Markdown syntax, especially aimed at project documentation. Markdown is a lightweight markup language commonly used for formatting text on platforms like GitHub, GitLab, Bitbucket, and many others.*
 
-## **¿Qué es Markdown?**
+## **What is Markdown?**
 
-> *Markdown es un lenguaje de marcado que te permite dar formato a texto de una manera sencilla y legible, utilizando un conjunto de caracteres especiales. Es ideal para escribir documentación de proyectos, READMEs, informes, correos electrónicos y más.*
+> *Markdown is a markup language that allows you to format text in a simple and readable way using a set of special characters. It's ideal for writing project documentation, READMEs, reports, emails, and more.*
 
-## **Contenido del Repositorio**
+## **Repository Contents**
 
-*El repositorio contiene los siguientes recursos:*
+*The repository contains the following resources:*
 
-- **Guía de Sintaxis:** *Un fichero que describe las principales características y sintaxis de Markdown, incluyendo encabezados, listas, enlaces, imágenes, citas, código, tablas y más.*
+- **Syntax Guide:** *A file describing the main features and syntax of Markdown, including headers, lists, links, images, quotes, code, tables, and more.*
 
-- **Ejemplos:** *Ejemplos prácticos de cómo utilizar la sintaxis de Markdown en la documentación de proyectos.*
+- **Examples:** *Practical examples of how to use Markdown syntax in project documentation.*
 
-- **Recursos Adicionales:** *Enlaces a recursos externos útiles para aprender más sobre Markdown y mejorar tus habilidades de escritura en este formato.*
+- **Additional Resources:** *Links to useful external resources for learning more about Markdown and improving your writing skills in this format.*
 
-## **Uso**
+## **Usage**
 
-> *Para utilizar la guía de sintaxis de Markdown y los ejemplos proporcionados en este repositorio, simplemente consulta los archivos Markdown en el directorio correspondiente. Puedes copiar y pegar el código Markdown en tus propios ficheros y personalizarlo según tus necesidades.*
+> *To use the Markdown syntax guide and examples provided in this repository, simply refer to the Markdown files in the corresponding directory. You can copy and paste the Markdown code into your own files and customize it according to your needs.*
