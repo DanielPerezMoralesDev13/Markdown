@@ -1,18 +1,4 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
 <!-- Correo electrónico: danielperezdev@proton.me  -->
-- Lenguages
-
-  - Python
-    - Data Science
-
-- **Lista de Lenguages**
-
-  - Python
-  - Javascript
-  - Typescript
-  - Rust
-  - C
-  - Java
-
-- _Tareas_
+# ~~Tachado~~

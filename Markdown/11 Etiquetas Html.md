@@ -1,4 +1,6 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
 <!-- Correo electrónico: danielperezdev@proton.me  -->
-<kbd>Ctrl</kbd>+<kbd>C</kbd> copiar
+# Etiquetas html
+
+<kbd>Ctrl</kbd>+<kbd>C</kbd>copiar

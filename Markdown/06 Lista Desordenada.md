@@ -1,10 +1,21 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
 <!-- Correo electrónico: danielperezdev@proton.me  -->
-1. _Tareas_
-   1. [ ] Portfolio
-   2. [x] Aprender Linux
+
+# Lista desordenada
+
+- Lenguages
+
+  - Python
+    - Data Science
+
+- **Lista de Lenguages**
+
+  - Python
+  - Javascript
+  - Typescript
+  - Rust
+  - C
+  - Java
 
 - _Tareas_
-  - [ ] Portfolio
-  - [x] Aprender Linux

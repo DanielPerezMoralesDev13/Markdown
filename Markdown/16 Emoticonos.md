@@ -1,8 +1,7 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
 <!-- Correo electrónico: danielperezdev@proton.me  -->
-Antes de la linea separadora
 
-___
+# Emoticonos
 
-Despues de la linea separadora
+:sleeping:

@@ -1,4 +1,6 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
 <!-- Correo electrónico: danielperezdev@proton.me  -->
-[Enlaces de emoticonos](https://gist.github.com/rxaviers/7360908#file-gistfile1-md "Este texto se mostrara si se pasa el cursor sobre el enlace")
+# _Cursiva_
+
+_Otra manera de hacer cursiva es con `*texto*`_

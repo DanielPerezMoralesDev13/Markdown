@@ -1,6 +1,9 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
 <!-- Correo electrónico: danielperezdev@proton.me  -->
+
+# Pie de pagina
+
 Esto es un ejemplo de texto con un pie de página[^1].
 
 [^1]: Aquí proporcionas la información detallada o la fuente de referencia.
