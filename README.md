@@ -22,3 +22,11 @@
 ## **Usage**
 
 > *To use the Markdown syntax guide and examples provided in this repository, simply refer to the Markdown files in the corresponding directory. You can copy and paste the Markdown code into your own files and customize it according to your needs.*
+
+## ***Contributions***
+
+> *Contributions are welcome! If you have suggestions, corrections, or wish to add additional content to this guide, feel free to open an issue or submit a pull request. Your help is essential to make this guide a comprehensive and up-to-date reference on OOP for the development community.*
+
+## ***License***
+
+> *This repository is published under the MIT License. Feel free to use, modify, and distribute the content in accordance with the terms of this license.*
