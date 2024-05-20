@@ -22,3 +22,11 @@
 ## **Uso**
 
 > *Para utilizar la guía de sintaxis de Markdown y los ejemplos proporcionados en este repositorio, simplemente consulta los archivos Markdown en el directorio correspondiente. Puedes copiar y pegar el código Markdown en tus propios ficheros y personalizarlo según tus necesidades.*
+
+## ***Contribuciones***
+
+> *¡Las contribuciones son bienvenidas! Si tienes sugerencias, correcciones o deseas agregar contenido adicional a esta guía, no dudes en abrir un problema o enviar una solicitud de extracción. Tu ayuda es fundamental para hacer de esta guía una referencia completa y actualizada sobre POO para la comunidad de desarrollo.*
+
+## ***Licencia***
+
+> *Este repositorio se publica bajo la Licencia MIT. Siéntete libre de utilizar, modificar y distribuir el contenido de acuerdo con los términos de esta licencia.*
