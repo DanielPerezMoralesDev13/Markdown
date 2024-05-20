@@ -25,7 +25,7 @@
 
 ## ***Contribuciones***
 
-> *¡Las contribuciones son bienvenidas! Si tienes sugerencias, correcciones o deseas agregar contenido adicional a esta guía, no dudes en abrir un problema o enviar una solicitud de extracción. Tu ayuda es fundamental para hacer de esta guía una referencia completa y actualizada sobre POO para la comunidad de desarrollo.*
+> *¡Las contribuciones son bienvenidas! Si tienes sugerencias, correcciones o deseas agregar contenido adicional a esta guía, no dudes en abrir un problema o enviar una solicitud de extracción. Tu ayuda es fundamental para hacer de esta guía una referencia completa y actualizada para la comunidad de desarrollo.*
 
 ## ***Licencia***
 
