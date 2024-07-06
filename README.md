@@ -1,6 +1,6 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
-<!-- Correo electrónico: danielperezdev@proton.me  -->
+<!-- Correo electrónico: danielperezdev@proton.me -->
 # ***Markdown Syntax for Project Documentation***
 
 > *This repository contains a quick reference guide for Markdown syntax, especially aimed at project documentation. Markdown is a lightweight markup language commonly used for formatting text on platforms like GitHub, GitLab, Bitbucket, and many others.*

@@ -1,6 +1,6 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
-<!-- Correo electrónico: danielperezdev@proton.me  -->
+<!-- Correo electrónico: danielperezdev@proton.me -->
 # ***Sintaxis de Markdown para Documentación de Proyectos***
 
 > *Este repositorio contiene una guía rápida de referencia para la sintaxis de Markdown, especialmente dirigida a la documentación de proyectos. Markdown es un lenguaje de marcado ligero que se utiliza comúnmente para formatear texto en plataformas como GitHub, GitLab, Bitbucket y muchas otras.*

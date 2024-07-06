@@ -1,3 +1,6 @@
+<!-- Autor: Daniel Benjamin Perez Morales -->
+<!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
+<!-- Correo electrónico: danielperezdev@proton.me -->
 
 # Cargar Imágenes Localmente en Markdown
 
@@ -17,16 +20,10 @@ Para cargar imágenes en local utilizando Markdown, sigue los pasos a continuaci
    - `ruta/a/la/imagen.png`: Es la ruta relativa desde la ubicación de tu archivo Markdown hasta la imagen.
 
 3. **Manejo de Nombres de Archivos con Espacios:**
-   Si el nombre del archivo de imagen contiene espacios, debes escapar cada espacio con `%20` o utilizar comillas dobles alrededor de la ruta de la imagen. Por ejemplo:
+   Si el nombre del archivo de imagen contiene espacios, debes escapar cada espacio con `%20`. Por ejemplo:
 
    ```markdown
    ![Texto alternativo](ruta/a/la/imagen%20con%20espacios.png)
-   ```
-
-   O también:
-
-   ```markdown
-   ![Texto alternativo]("ruta/a/la/imagen con espacios.png")
    ```
 
 4. **Ejemplo Práctico:**
